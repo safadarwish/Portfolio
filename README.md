@@ -4,8 +4,8 @@
 <!--Section 1: Introduction-->
 
 ## 🌟 About Me  
-Innovative and detail-oriented Data Analyst with an **MSc in Economics**, specializing in **data analysis, visualization, and data modeling**.  I transform complex, diverse datasets into clear insights that drive data-driven decision-making.Proficient in **Power BI, Excel, DAX, SQL, Python, and R**, I build dynamic dashboards, conduct exploratory analysis, streamline reporting workflows, and ensure data accuracy and efficiency. I uncover patterns and use data storytelling to translate numbers into meaningful strategic impact.
-🚀 Let’s turn data into powerful stories and smarter decisions.  
+Innovative and detail-oriented Data Analyst with an **MSc in Economics**, skilled in data analysis, visualization, and data modeling. I transform complex datasets into clear insights that drive data-driven decision-making. Proficient in **Power BI, Excel, DAX, SQL, Python, and R**, I build dynamic dashboards, perform exploratory analysis, streamline reporting, and use data storytelling to turn numbers into strategic impact.
+🚀 Let’s turn data into smarter decisions.  
 
 ---
 
