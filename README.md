@@ -43,6 +43,46 @@ Analytical Data Analyst with an **MSc in Economics** and hands-on experience in 
 
 ---
 
+## 📊 Projects 
+
+
+###  Automotive Sales Dashboard
+- 🌍 Designed and developed an interactive Sales Performance Dashboard (2015–2025) in Power BI, integrating multi-year sales, invoices, gross profit, and GP% KPIs with dynamic slicers for branch and year-level analysis.
+- 🔍 Implemented advanced DAX measures including YoY Sales Change, Gross Profit %, and branch-wise contribution analysis, enabling real-time performance tracking and comparative insights.
+- 📈 Built visually optimized reports with drill-down capabilities, trend analysis, and branch segmentation to support data-driven decision-making and executive-level reporting. 
+![image](SALES 1.png)
+![image](SALES 2.png)
+
+---
+
+###  HR Analytics Dashboard 
+- 🌍 Designed an HR Analytics dashboard using **MySQL and Power BI** to analyse employee demographics, salary trends, departmental performance, and workforce health.
+- 🔍 Built **SQL views with joins across multiple tables** to extract hire, resignation, payroll, and department-level data for KPI reporting and attrition analysis.
+- 📈 Generated actionable insights on gender imbalance, high-paying departments, declining salary trends, and rising attrition, supporting data-driven HR decision-making 
+![image](HR PAGE 1.png)
+![image](HR PAGE 2.png)
+
+---
+
+### CRM Sales Performance & Pipeline Analysis Dashboard  
+- 🏨 Developed an interactive **Power BI dashboard analyzing 3,000+ CRM records totalling 8.2M+ in deal value**, providing insights on sales agent performance, conversion rates, and deal trends.
+- 💡 Constructed **10+ DAX calculations** and data models to track KPIs including conversion rates, sales cycle durations, and product wise deal closures across multiple countries and industries.
+- 📊 Delivered actionable, user-friendly visuals maps, funnels, bar charts, and scatter plots enabling data driven pipeline optimization and strategic sales decision-making. 
+![image](CRM PAGE 1.png)
+![image](CRM PAGE 2.png)
+![image](CRM PAGE 3.png)
+![image](CRM PAGE 4.png)
+
+---
+
+###  Car Insurance Portfolio & Claims Analysis Dashboard  
+- 🌍 Analyzed 37,541 car insurance policies using Power BI, creating DAX measures to calculate total claim value of $1.88B and core portfolio-level KPIs.
+- 🔍 Cleaned and transformed insurance data in Power Query, correcting data types, resolving missing values, and standardizing 10+ categorical variables including coverage zone, car use, education level, vehicle make, kids driving, and car year to ensure analytical accuracy.
+- 📈 Designed an interactive Insurance Risk & Claims Analysis dashboard using slicers and visuals to analyze policy distribution by gender, coverage zone, car use, vehicle make, and car year, supporting data-driven insurance risk assessment.
+![image](Insurance Dashboard.png)
+
+---
+
 ## 📜 Certifications  
 - ✅ Python 3 Certification Course - Programming Hub 
 - ✅ Complete Python Bootcamp- UDEMY (ongoing)
