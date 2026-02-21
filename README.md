@@ -21,25 +21,25 @@ Analytical Data Analyst with an **MSc in Economics** and hands-on experience in 
 
 ## 💼 Work Experience  
 
-### 🔹 Economic Analyst — *Nikore Associates, Bengaluru, India*  
-- Analyzed Hyderabad Metro ridership and transport datasets using Advanced Excel, transforming raw data into structured insights to support research proposals and stakeholder reporting.  
-- Conducted urban mobility research and survey data analysis, identifying commuter patterns, travel behavior trends, and usage insights through systematic data evaluation.  
-- Performed a detailed 10-year transport budget analysis, evaluating expenditure trends, modal allocations, and policy alignment to deliver evidence-based strategic recommendations.  
+### 🔹 Economic Analyst - *Nikore Associates, Bengaluru, India*  
+- Analyzed **Hyderabad Metro ridership and transport datasets** using **Advanced Excel**, transforming raw data into structured insights to support research proposals and stakeholder reporting.  
+- Conducted **urban mobility research and survey data analysis**, identifying commuter patterns, travel behavior trends, and usage insights through systematic data evaluation.  
+- Performed a detailed **10-year transport budget analysis**, evaluating **expenditure trends, modal allocations, and policy alignment** to deliver evidence-based strategic recommendations.  
 
-### 🔹 Business Associate — *Jyesta Corporate, Bengaluru, India*  
-- Achieved a ₹2 lakh sales target by applying market research, client analysis, and data-driven outreach strategies to identify and convert high-potential leads.  
-- Built interactive Power BI dashboards to track sales performance, conversion rates, pipeline movement, and key KPIs, improving visibility into sales operations.
-- Managed and maintained 250+ CRM records, ensuring accurate sales data tracking, lead documentation, and structured reporting workflows to support business growth initiatives.
+### 🔹 Business Associate - *Jyesta Corporate, Bengaluru, India*  
+- Achieved a ₹2 lakh sales target by applying **market research, client analysis, and data-driven outreach strategies** to identify and convert high-potential leads.  
+- Built interactive **Power BI dashboards to track sales performance, conversion rates, pipeline movement, and key KPIs**, improving visibility into sales operations.
+- Managed and maintained **250+ CRM records**, ensuring accurate **sales data tracking, lead documentation, and structured reporting workflows** to support business growth initiatives.
 
-### 🔹 Intern — *NITI Aayog, Delhi, India*  
-- Analyzed program and financial datasets to monitor regional performance trends, supporting structured KPI tracking through Excel and Power BI dashboards.  
-- Designed analytical evaluation frameworks to measure efficiency, identify operational gaps, and recommend cost optimization strategies. 
-- Prepared detailed analytical reports and stakeholder insights, strengthening data-driven decision-making and cross-department coordination.
+### 🔹 Intern - *NITI Aayog, Delhi, India*  
+- Analyzed **program and financial datasets** to monitor regional performance trends, supporting structured **KPI tracking through Excel and Power BI dashboards**.  
+- Designed analytical **evaluation frameworks** to measure efficiency, identify operational gaps, and recommend **cost optimization strategies**. 
+- Prepared detailed **analytical reports and stakeholder insights**, strengthening data-driven decision-making and cross-department coordination.
 
-### 🔹 Credit Risk Analyst Trainee — *Devi Bankers, Calicut, India*  
-- Conducted detailed analysis of financial statements, credit histories, and borrower data to evaluate risk exposure, repayment capacity, and lending feasibility.  
-- Monitored loan portfolio performance metrics, analyzing repayment trends and identifying early warning indicators of potential default risk. 
-- Prepared structured risk assessment reports and compliance documentation, ensuring high data accuracy, regulatory alignment, and systematic record maintenance throughout the credit evaluation process.  
+### 🔹 Credit Risk Analyst Trainee - *Devi Bankers, Calicut, India*  
+- Conducted detailed analysis of **financial statements, credit histories, and borrower data** to evaluate **risk exposure, repayment capacity, and lending feasibility**.  
+- Monitored **loan portfolio performance metrics**, analyzing repayment trends and identifying early warning indicators of potential default risk. 
+- Prepared structured **risk assessment reports and compliance documentation**, ensuring high **data accuracy, regulatory alignment, and systematic record maintenance** throughout the credit evaluation process.  
 
 ---
 
@@ -47,9 +47,9 @@ Analytical Data Analyst with an **MSc in Economics** and hands-on experience in 
 
 
 ###  Automotive Sales Dashboard
-- 🌍 Designed and developed an interactive Sales Performance Dashboard (2015–2025) in Power BI, integrating multi-year sales, invoices, gross profit, and GP% KPIs with dynamic slicers for branch and year-level analysis.
-- 🔍 Implemented advanced DAX measures including YoY Sales Change, Gross Profit %, and branch-wise contribution analysis, enabling real-time performance tracking and comparative insights.
-- 📈 Built visually optimized reports with drill-down capabilities, trend analysis, and branch segmentation to support data-driven decision-making and executive-level reporting. 
+- 🌍 Designed and developed an interactive **Sales Performance Dashboard (2015–2025) in Power BI**, integrating multi-year sales, invoices, gross profit, and GP% KPIs with dynamic slicers for branch and year-level analysis.
+- 🔍 Implemented advanced **DAX measures including YoY Sales Change, Gross Profit %, and branch-wise contribution analysis**, enabling real-time performance tracking and comparative insights.
+- 📈 Built visually optimized reports with drill-down capabilities, **trend analysis**, and branch segmentation to support data-driven decision-making and executive-level reporting. 
 ![image](SALES 1.png)
 ![image](SALES 2.png)
 
@@ -76,9 +76,9 @@ Analytical Data Analyst with an **MSc in Economics** and hands-on experience in 
 ---
 
 ###  Car Insurance Portfolio & Claims Analysis Dashboard  
-- 🌍 Analyzed 37,541 car insurance policies using Power BI, creating DAX measures to calculate total claim value of $1.88B and core portfolio-level KPIs.
-- 🔍 Cleaned and transformed insurance data in Power Query, correcting data types, resolving missing values, and standardizing 10+ categorical variables including coverage zone, car use, education level, vehicle make, kids driving, and car year to ensure analytical accuracy.
-- 📈 Designed an interactive Insurance Risk & Claims Analysis dashboard using slicers and visuals to analyze policy distribution by gender, coverage zone, car use, vehicle make, and car year, supporting data-driven insurance risk assessment.
+- 🌍 Analyzed 37,541 car insurance policies using **Power BI, creating DAX measures to calculate total claim value of $1.88B and core portfolio-level KPIs**.
+- 🔍 Cleaned and transformed insurance data in **Power Query**, correcting data types, resolving missing values, and **standardizing 10+ categorical variables** including coverage zone, car use, education level, vehicle make, kids driving, and car year to ensure analytical accuracy.
+- 📈 Designed an interactive Insurance **Risk & Claims Analysis dashboard** using slicers and visuals to analyze policy distribution by gender, coverage zone, car use, vehicle make, and car year, supporting **data-driven insurance risk assessment**.
 ![image](Insurance Dashboard.png)
 
 ---
