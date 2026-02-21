@@ -56,7 +56,7 @@ Analytical Data Analyst with an **MSc in Economics** and hands-on experience in 
 ![MS Excel](https://img.shields.io/badge/-Excel-217346?logo=Microsoft-Excel&logoColor=white) 
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=MySQL&logoColor=white) 
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=white)    
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white)
 
 
