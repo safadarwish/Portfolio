@@ -52,6 +52,7 @@ Innovative and detail-oriented Data Analyst with an **MSc in Economics**, skille
 - 📈 Built visually optimized reports with drill-down capabilities, **trend analysis**, and branch segmentation to support data-driven decision-making and executive-level reporting. 
 ![image](SALES 1.png)
 ![image](SALES 2.png)
+[🔗 View Dashboard](https://drive.google.com/file/d/1fBDHnRgwfiAzqKbf5_ytT9WYRucGpYwo/view?usp=drive_link)  
 
 ---
 
@@ -61,7 +62,7 @@ Innovative and detail-oriented Data Analyst with an **MSc in Economics**, skille
 - 📈 Generated actionable insights on gender imbalance, high-paying departments, declining salary trends, and rising attrition, supporting data-driven HR decision-making 
 ![image](HR PAGE 1.png)
 ![image](HR PAGE 2.png)
-
+[🔗 View Dashboard](https://drive.google.com/file/d/1y96XybPgJqq8HcgUiSbDhblL27kVGCOI/view?usp=drive_link)  
 ---
 
 ### CRM Sales Performance & Pipeline Analysis Dashboard  
@@ -72,7 +73,7 @@ Innovative and detail-oriented Data Analyst with an **MSc in Economics**, skille
 ![image](CRM PAGE 2.png)
 ![image](CRM PAGE 3.png)
 ![image](CRM PAGE 4.png)
-
+[🔗 View Dashboard](https://drive.google.com/file/d/1GAkpt6v-g8Vx6XCNHc-hH-20-p9UegxY/view?usp=drive_link) 
 ---
 
 ###  Car Insurance Portfolio & Claims Analysis Dashboard  
@@ -80,7 +81,7 @@ Innovative and detail-oriented Data Analyst with an **MSc in Economics**, skille
 - 🔍 Cleaned and transformed insurance data in **Power Query**, correcting data types, resolving missing values, and **standardizing 10+ categorical variables** including coverage zone, car use, education level, vehicle make, kids driving, and car year to ensure analytical accuracy.
 - 📈 Designed an interactive Insurance **Risk & Claims Analysis dashboard** using slicers and visuals to analyze policy distribution by gender, coverage zone, car use, vehicle make, and car year, supporting **data-driven insurance risk assessment**.
 ![image](Insurance Dashboard.png)
-
+[🔗 View Dashboard](https://drive.google.com/file/d/1Focd_zXfJU6x8mdNEvLzM3N2cu-lz33y/view?usp=drive_link)
 ---
 
 ## 📜 Certifications  
