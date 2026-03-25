@@ -49,9 +49,10 @@ Innovative and detail-oriented Data Analyst with an **MSc in Economics**, skille
 - 🌍 Analyzed **9,000+ hospital emergency room records** using Power BI, developing DAX measures to evaluate key **operational KPIs** such as patient wait time, satisfaction, and referral volumes, supporting clinical performance and cost-related insights.
 - 🔍 Transformed and validated healthcare activity data using **Power Query and DAX**, creating calculated fields (wait-time SLA, admission status, age groups) to improve data quality, ensure accurate reporting, and support downstream costing and reconciliation processes.
 - 📈 Designed an interactive BI dashboard to analyze patient flow, demographics, and departmental activity, enabling data-driven decision-making for **resource planning, service optimization, and supporting clinical costing and pricing analysis**. 
-![image](SALES 1.png)
-![image](SALES 2.png)
-[🔗 View Dashboard](https://drive.google.com/file/d/1fBDHnRgwfiAzqKbf5_ytT9WYRucGpYwo/view?usp=drive_link)  
+![image](HOS 1.png)
+![image](HOS 2.png)
+![image](HOS 3.png)
+[🔗 View Dashboard](https://drive.google.com/file/d/1KgUWIozgAVKWNTPg4Uzhz42gVi0Wd38Q/view) 
 
 ###  Automotive Sales Dashboard
 - 🌍 Designed and developed an interactive **Sales Performance Dashboard (2015–2025) in Power BI**, integrating multi-year sales, invoices, gross profit, and GP% KPIs with dynamic slicers for branch and year-level analysis.
