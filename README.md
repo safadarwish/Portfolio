@@ -45,6 +45,14 @@ Innovative and detail-oriented Data Analyst with an **MSc in Economics**, skille
 
 ## 📊 Projects 
 
+###  Clinical Cost Drivers & Resource Utilisation Analysis
+- 🌍 Analyzed **10,000+ patient records using Power BI and DAX** to evaluate **cost allocation, clinical costing, profitability, and service-level financial performance**.
+- 🔍 Developed Power BI dashboards and DAX measures to perform **data reconciliation, data validation, KPI calculations, and integration** across PLICS healthcare datasets.
+- 📈 Identified cost drivers including **Length of Stay (LOS) and ICU utilization to support pricing insights, reimbursement analysis, benchmarking, and cost optimization**. 
+![image](S1.png)
+![image](S2.png)
+[🔗 View Dashboard](https://drive.google.com/file/d/1MSNlnj3d7DbgDg4BXIZuy5KlRVbe0FAQ/view?usp=drive_link)
+
 ###  Hospital Emergency Room Dashboard
 - 🌍 Analyzed **9,000+ hospital emergency room records** using Power BI, developing DAX measures to evaluate key **operational KPIs** such as patient wait time, satisfaction, and referral volumes, supporting clinical performance and cost-related insights.
 - 🔍 Transformed and validated healthcare activity data using **Power Query and DAX**, creating calculated fields (wait-time SLA, admission status, age groups) to improve data quality, ensure accurate reporting, and support downstream costing and reconciliation processes.
