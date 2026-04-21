@@ -70,6 +70,14 @@ Innovative and detail-oriented Data Analyst with an **MSc in Economics**, skille
 ![image](SALES 2.png)
 [🔗 View Dashboard](https://drive.google.com/file/d/1fBDHnRgwfiAzqKbf5_ytT9WYRucGpYwo/view?usp=drive_link)  
 
+###  Holiday Package Purchase Prediction - Python
+- 🌍 Built a machine learning model to predict customer likelihood of purchasing a newly introduced wellness tourism package using a Kaggle dataset with 4,888 records and 20 features..
+- 🔍 Performed end-to-end data preparation, including missing value imputation, category standardization, feature selection, and exploratory data analysis to identify key customer behavior patterns.
+- 📈 Improved business targeting insights by identifying high-potential customer segments, and selected KNN as the best-performing model after resampling and hyperparameter tuning. 
+![image](SALES 1.png)
+![image](SALES 2.png)
+[🔗 View Dashboard](https://drive.google.com/file/d/1fBDHnRgwfiAzqKbf5_ytT9WYRucGpYwo/view?usp=drive_link)  
+
 ---
 
 ###  HR Analytics Dashboard 
