@@ -77,7 +77,7 @@ Innovative and detail-oriented Data Analyst with an **MSc in Economics**, skille
 ![image](PY 1.png)
 ![image](PY 3.png)
 ![image](PY 2.png)
-[🔗 View Dashboard](https://docs.google.com/document/d/1932wCVR9xCoW1_lQCXAE030E5clOlbNT/edit?usp=drive_link&ouid=114753895963624103709&rtpof=true&sd=true)  
+[🔗 View Project](https://docs.google.com/document/d/1932wCVR9xCoW1_lQCXAE030E5clOlbNT/edit?usp=drive_link&ouid=114753895963624103709&rtpof=true&sd=true)  
 
 ---
 
