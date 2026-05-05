@@ -53,6 +53,8 @@ Innovative and detail-oriented Data Analyst with an **MSc in Economics**, skille
 ![image](S2.png)
 [🔗 View Dashboard](https://drive.google.com/file/d/1MSNlnj3d7DbgDg4BXIZuy5KlRVbe0FAQ/view?usp=drive_link)
 
+---
+
 ###  Hospital Emergency Room Dashboard
 - 🌍 Analyzed **9,000+ hospital emergency room records** using Power BI, developing DAX measures to evaluate key **operational KPIs** such as patient wait time, satisfaction, and referral volumes, supporting clinical performance and cost-related insights.
 - 🔍 Transformed and validated healthcare activity data using **Power Query and DAX**, creating calculated fields (wait-time SLA, admission status, age groups) to improve data quality, ensure accurate reporting, and support downstream costing and reconciliation processes.
@@ -62,13 +64,7 @@ Innovative and detail-oriented Data Analyst with an **MSc in Economics**, skille
 ![image](HOS 3.png)
 [🔗 View Dashboard](https://drive.google.com/file/d/1KgUWIozgAVKWNTPg4Uzhz42gVi0Wd38Q/view) 
 
-###  Automotive Sales Dashboard
-- 🌍 Designed and developed an interactive **Sales Performance Dashboard (2015–2025) in Power BI**, integrating multi-year sales, invoices, gross profit, and GP% KPIs with dynamic slicers for branch and year-level analysis.
-- 🔍 Implemented advanced **DAX measures including YoY Sales Change, Gross Profit %, and branch-wise contribution analysis**, enabling real-time performance tracking and comparative insights.
-- 📈 Built visually optimized reports with drill-down capabilities, **trend analysis**, and branch segmentation to support data-driven decision-making and executive-level reporting. 
-![image](SALES 1.png)
-![image](SALES 2.png)
-[🔗 View Dashboard](https://drive.google.com/file/d/1fBDHnRgwfiAzqKbf5_ytT9WYRucGpYwo/view?usp=drive_link)  
+---
 
 ###  Holiday Package Purchase Prediction - Python
 - 🌍 Built a machine learning model to predict customer likelihood of purchasing a newly introduced wellness tourism package using a Kaggle dataset with 4,888 records and 20 features..
