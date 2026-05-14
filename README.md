@@ -45,6 +45,18 @@ Innovative and detail-oriented Data Analyst with an **MSc in Economics**, skille
 
 ## 📊 Projects 
 
+###  Freight Forwarding Operations Dashboard
+- 🌍 Developed an all-in-one Power BI dashboard to **track shipment operations, revenue, cost, profit margin, and operational KPIs** across Air, Sea, Rail, and Road logistics networks.
+- 🔍 Built interactive analytics for shipment mode performance, origin country trends, **carrier efficiency, monthly demand analysis, and profitability tracking** to support logistics reporting and operational decision-making.
+- 📈 Automated reporting workflows using **Power BI, DAX, and Power Query**, enabling real-time dashboard refresh, reducing manual reporting effort, and improving stakeholder visibility into freight operations. 
+![image](LOG 1.png)
+![image](LOG 2.png)
+![image](LOG 3.png)
+![image](LOG 4.png)
+![image](LOG 5.png)
+[🔗 View Dashboard](https://drive.google.com/file/d/1MSNlnj3d7DbgDg4BXIZuy5KlRVbe0FAQ/view?usp=drive_link)
+
+---
 ###  Healthcare Costing & Financial Analysis Dashboard
 - 🌍 Analyzed **10,000+ patient records using Power BI and DAX** to evaluate **cost allocation, clinical costing, profitability, and service-level financial performance**.
 - 🔍 Developed Power BI dashboards and DAX measures to perform **data reconciliation, data validation, KPI calculations, and integration** across PLICS healthcare datasets.
@@ -156,7 +168,7 @@ Innovative and detail-oriented Data Analyst with an **MSc in Economics**, skille
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="Nihal Abdulla Resume.pdf">Download my CV</a></td>
+      <td><a href="Safa_Darwish_Resume.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
