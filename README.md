@@ -49,11 +49,11 @@ Innovative and detail-oriented Data Analyst with an **MSc in Economics**, skille
 - 🌍 Developed an all-in-one Power BI dashboard to **track shipment operations, revenue, cost, profit margin, and operational KPIs** across Air, Sea, Rail, and Road logistics networks.
 - 🔍 Built interactive analytics for shipment mode performance, origin country trends, **carrier efficiency, monthly demand analysis, and profitability tracking** to support logistics reporting and operational decision-making.
 - 📈 Automated reporting workflows using **Power BI, DAX, and Power Query**, enabling real-time dashboard refresh, reducing manual reporting effort, and improving stakeholder visibility into freight operations. 
-![image](LOG 1.png)
-![image](LOG 2.png)
-![image](LOG 3.png)
-![image](LOG 4.png)
-![image](LOG 5.png)
+![image](LOG 1.jpeg)
+![image](LOG 2.jpeg)
+![image](LOG 3.jpeg)
+![image](LOG 4.jpeg)
+![image](LOG 5.jpeg)
 [🔗 View Dashboard](https://drive.google.com/file/d/1MSNlnj3d7DbgDg4BXIZuy5KlRVbe0FAQ/view?usp=drive_link)
 
 ---
