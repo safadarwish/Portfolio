@@ -78,16 +78,6 @@ Innovative and detail-oriented Data Analyst with an **MSc in Economics**, skille
 
 ---
 
-###  Automotive Sales Dashboard
-- 🌍 Designed and developed an interactive **Sales Performance Dashboard (2015–2025) in Power BI**, integrating multi-year sales, invoices, gross profit, and GP% KPIs with dynamic slicers for branch and year-level analysis.
-- 🔍 Implemented advanced **DAX measures including YoY Sales Change, Gross Profit %, and branch-wise contribution analysis**, enabling real-time performance tracking and comparative insights.
-- 📈 Built visually optimized reports with drill-down capabilities, **trend analysis**, and branch segmentation to support data-driven decision-making and executive-level reporting. 
-![image](SALES 1.png)
-![image](SALES 2.png)
-[🔗 View Dashboard](https://drive.google.com/file/d/1fBDHnRgwfiAzqKbf5_ytT9WYRucGpYwo/view?usp=drive_link)
-
----
-
 ###  Holiday Package Purchase Prediction - Python
 - 🌍 Built a machine learning model to predict customer likelihood of purchasing a newly introduced wellness tourism package using a Kaggle dataset with 4,888 records and 20 features..
 - 🔍 Performed end-to-end data preparation, including missing value imputation, category standardization, feature selection, and exploratory data analysis to identify key customer behavior patterns.
