@@ -168,7 +168,7 @@ Innovative and detail-oriented Data Analyst with an **MSc in Economics**, skille
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="Safa_Darwish_Resume_Data Analyst .pdf">Download my CV</a></td>
+      <td><a href="Safa_Darwish_Resume_Data Analyst.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
