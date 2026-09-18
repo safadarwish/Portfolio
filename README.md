@@ -19,7 +19,12 @@ Innovative and detail-oriented Data Analyst with an **MSc in Economics**, skille
 
 ---
 
-## 💼 Work Experience  
+## 💼 Work Experience 
+
+### 🔹 Analyst Trainee - *Inspire Steel and Aluminium W.L.L, Doha, Qatar*  
+- Analyzed financial, **sales, and operational datasets** using SQL, SAP, Power BI, and Advanced Excel to evaluate revenue, profitability, cost trends, and business performance, providing actionable insights for management and strategic planning.  
+- Developed interactive Power BI dashboards and KPI reports by extracting, cleaning, validating, transforming, and visualizing data, enabling **real-time monitoring of financial and operational performance** across business functions.  
+- Conducted **trend analysis, forecasting, and management reporting** while collaborating with cross-functional stakeholders to improve reporting accuracy, streamline reporting processes, and identify opportunities for cost optimization.  
 
 ### 🔹 Economic Analyst - *Nikore Associates, Bengaluru, India*  
 - Analyzed **Hyderabad Metro ridership and transport datasets** using **Advanced Excel**, transforming raw data into structured insights to support research proposals and stakeholder reporting.  
