@@ -145,6 +145,38 @@ Innovative and detail-oriented Data Analyst with an **MSc in Economics**, skille
 
 ---
 
+###  Determinants of Son Preference in Punjab | Stata  
+- 🌍 Analyzed **10,599 NFHS-5 survey observations using Stata** to assess how wealth, education, rural/urban residence, religion, and family composition influence a binary outcome.
+- 🔍 Developed and interpreted Logistic **Regression models, evaluating odds ratios, p-values, 95% confidence intervals, and model fit (Pseudo R²)** to identify statistically significant relationships and key drivers.
+- 📈 Translated quantitative analysis into business-relevant insights through descriptive analysis and data visualization, highlighting relationships between household wealth, education, residence, and family characteristics to support evidence-based interpretation.
+[🔗 View Project](https://drive.google.com/file/d/1vCiTBjbE-k01x6q0zfZZxTmpU9VsQrW3/view?usp=drive_link)
+
+---
+
+###  Tax Revenue & Fiscal Analysis for BRICS Countries  
+- 🌍 Analyzed **10 years of Indian tax-revenue data (2013–2023)** to evaluate direct/indirect tax trends, GST, income tax, corporate tax, customs, and excise duties using **trend analysis** and data visualization.
+- 🔍 Calculated and interpreted Tax Buoyancy by comparing **tax-revenue growth with GDP growth**, assessing revenue responsiveness across major tax components.
+- 📈 Conducted **comparative financial analysis across 5 BRICS economies (2019–2023) using GDP, tax revenue, growth rates, and tax-buoyancy metrics** to derive insights on revenue performance and fiscal capacity.
+[🔗 View Project](https://drive.google.com/file/d/10io7B0Fxaz-gU1Cpef_pN9_vcqFlJYGa/view?usp=drive_link)
+
+---
+
+###  Impact of General Elections on Stock Markets | India & USA  
+- 🌍 Analyzed stock-market data for **NIFTY 50, S&P 500, and banking-sector indices** using a **100-day event study** to evaluate market reactions around the 2024 elections.
+- 🔍 Applied **CAPM to estimate expected returns and beta**, then calculated abnormal returns (AR) and cumulative abnormal returns (CAR) to measure market movements.
+- 📈 Conducted **T-tests in Excel** to assess statistical significance, comparing short-term and long-term market reactions across India and the USA.
+[🔗 View Project](https://drive.google.com/file/d/19ahx0WNo_6Oq4I5zKy8z0YHjTMYO5XmQ/view?usp=sharing)
+
+---
+
+###  Does Taylor Rule Exist for India? | Monetary Policy Analysis  
+- 🌍 Analyzed India’s monetary policy (1985–2023) across four policy regimes using **multiple linear regression** to examine the relationship between interest rates, inflation gap, and output gap.
+- 🔍 Applied the **Hodrick-Prescott (HP) Filter** to estimate potential GDP and output gaps, using CPI/WPI inflation data and RBI economic data to construct Taylor Rule variables.
+- 📈 Performed regression analysis in **R Studio** and evaluated statistical significance, R-squared, coefficients, and model fit across six **Taylor Rule** specifications to assess monetary-policy responsiveness.
+[🔗 View Project](https://drive.google.com/file/d/1jqqrw20FrhMz3Om1OLwAbTIzzxFHZHsM/view?usp=sharing)
+
+---
+
 ## 📜 Certifications  
 - ✅ Python 3 Certification Course - Programming Hub 
 - ✅ Complete Python Bootcamp- UDEMY (ongoing)
