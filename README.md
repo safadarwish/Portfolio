@@ -126,6 +126,16 @@ Innovative and detail-oriented Data Analyst with an **MSc in Economics**, skille
 
 ---
 
+#### Financial Modelling: Premium Bus Service Feasibility
+- 🏨 Designed detailed financial statements, including Income, Cash Flow, and Balance Sheets, for business evaluation. 
+- 💡 Applied **Net Present Value (NPV) and Internal Rate of Return (IRR)** to determine project viability.
+- 📊 Provided actionable insights through data visualization and financial projections for strategic decision-making .
+![image](Excel 1.png)
+![image](Excel 2.png)
+![image](Excel 3.png)
+
+---
+
 ###  Car Insurance Portfolio & Claims Analysis Dashboard  
 - 🌍 Analyzed 37,541 car insurance policies using **Power BI, creating DAX measures to calculate total claim value of $1.88B and core portfolio-level KPIs**.
 - 🔍 Cleaned and transformed insurance data in **Power Query**, correcting data types, resolving missing values, and **standardizing 10+ categorical variables** including coverage zone, car use, education level, vehicle make, kids driving, and car year to ensure analytical accuracy.
