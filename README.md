@@ -55,7 +55,7 @@ Innovative and detail-oriented Data Analyst with an **MSc in Economics**, skille
 - 🔍 Built dynamic analytics for **model-wise stock availability, reorder alerts, plant-wise stock distribution, and inventory ageing**, helping identify critical stock levels and replenishment requirements for effective inventory planning.
 - 📈 Streamlined **inventory reporting and dashboard automation using Power BI, DAX, and Power Query**, incorporating interactive KPI cards, visual reports, and dynamic filters for model, variant, colour, plant, and storage location to improve reporting efficiency and stakeholder visibility. 
 ![image](VI.png)
-[🔗 View Dashboard](https://drive.google.com/file/d/1MSNlnj3d7DbgDg4BXIZuy5KlRVbe0FAQ/view?usp=drive_link)
+[🔗 View Dashboard](https://drive.google.com/file/d/1n_T2iMARfBoJGrE8J-LPLXr2jrj3brnk/view?usp=sharing)
 
 ---
 
@@ -64,7 +64,7 @@ Innovative and detail-oriented Data Analyst with an **MSc in Economics**, skille
 - 🔍 Built dynamic analytics to evaluate regional delivery performance, monthly OTIF trends, warehouse-wise delays, transport mode efficiency, and ordered vs. delivered quantities, identifying operational bottlenecks and fulfillment gaps.
 - 📈 Automated supply chain performance reporting using Power BI, DAX, and Power Query, developing interactive KPI measures, time-based analysis, and dynamic slicers for transport mode, warehouse location, region, and month-year to improve reporting efficiency and operational decision-making. 
 ![image](SC.png)
-[🔗 View Dashboard](https://drive.google.com/file/d/1MSNlnj3d7DbgDg4BXIZuy5KlRVbe0FAQ/view?usp=drive_link)
+[🔗 View Dashboard](https://drive.google.com/file/d/1McMV11erxwaZkfpOyEHSXmX3aEfmEW5t/view?usp=drive_link)
 
 ---
 
@@ -195,7 +195,13 @@ Innovative and detail-oriented Data Analyst with an **MSc in Economics**, skille
 
 ---
 
-## 📜 Certifications  
+## 📜 Certifications 
+- ✅ Agile Requirements Foundations – IIBA
+- ✅ Market Research: Qualitative (2021) – LinkedIn
+- ✅ What Is Business Analysis? – LinkedIn
+- ✅ Introduction to Business Analysis – LinkedIn
+- ✅ Complete Guide to Power BI for Data Analysts by Microsoft Press (2024) – Microsoft
+- ✅ Complete Guide to Generative AI for Data Analysis and Data Science – LinkedIn
 - ✅ Python 3 Certification Course - Programming Hub 
 - ✅ Complete Python Bootcamp- UDEMY (ongoing)
 - ✅ JPMorgan Excel Skills Job Simulation Virtual Experience Program (Forage) 
