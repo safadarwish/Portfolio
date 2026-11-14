@@ -50,6 +50,24 @@ Innovative and detail-oriented Data Analyst with an **MSc in Economics**, skille
 
 ## 📊 Projects 
 
+###  Vehicle Inventory Supply Chain & Product Planning Dashboard
+- 🌍 Developed an interactive **Power BI Vehicle Inventory Dashboard** to track total on-hand stock, available inventory, in-transit vehicles, reserved stock, stock cover, and inventory value across vehicle models.
+- 🔍 Built dynamic analytics for **model-wise stock availability, reorder alerts, plant-wise stock distribution, and inventory ageing**, helping identify critical stock levels and replenishment requirements for effective inventory planning.
+- 📈 Streamlined **inventory reporting and dashboard automation using Power BI, DAX, and Power Query**, incorporating interactive KPI cards, visual reports, and dynamic filters for model, variant, colour, plant, and storage location to improve reporting efficiency and stakeholder visibility. 
+![image](VI.png)
+[🔗 View Dashboard](https://drive.google.com/file/d/1MSNlnj3d7DbgDg4BXIZuy5KlRVbe0FAQ/view?usp=drive_link)
+
+---
+
+###  Supply Chain Management Dashboard
+- 🌍 Developed an interactive Power BI Supply Chain Dashboard to monitor key operational KPIs, including On-Time In-Full (OTIF %), On-Time Delivery (OT %), and In-Full Delivery (IF %) performances.
+- 🔍 Built dynamic analytics to evaluate regional delivery performance, monthly OTIF trends, warehouse-wise delays, transport mode efficiency, and ordered vs. delivered quantities, identifying operational bottlenecks and fulfillment gaps.
+- 📈 Automated supply chain performance reporting using Power BI, DAX, and Power Query, developing interactive KPI measures, time-based analysis, and dynamic slicers for transport mode, warehouse location, region, and month-year to improve reporting efficiency and operational decision-making. 
+![image](SC.png)
+[🔗 View Dashboard](https://drive.google.com/file/d/1MSNlnj3d7DbgDg4BXIZuy5KlRVbe0FAQ/view?usp=drive_link)
+
+---
+
 ###  Freight Forwarding Operations Dashboard
 - 🌍 Developed an all-in-one Power BI dashboard to **track shipment operations, revenue, cost, profit margin, and operational KPIs** across Air, Sea, Rail, and Road logistics networks.
 - 🔍 Built interactive analytics for shipment mode performance, origin country trends, **carrier efficiency, monthly demand analysis, and profitability tracking** to support logistics reporting and operational decision-making.
