@@ -60,9 +60,9 @@ Innovative and detail-oriented Data Analyst with an **MSc in Economics**, skille
 ---
 
 ###  Supply Chain Management Dashboard
-- 🌍 Developed an interactive Power BI Supply Chain Dashboard to monitor key operational KPIs, including On-Time In-Full (OTIF %), On-Time Delivery (OT %), and In-Full Delivery (IF %) performances.
-- 🔍 Built dynamic analytics to evaluate regional delivery performance, monthly OTIF trends, warehouse-wise delays, transport mode efficiency, and ordered vs. delivered quantities, identifying operational bottlenecks and fulfillment gaps.
-- 📈 Automated supply chain performance reporting using Power BI, DAX, and Power Query, developing interactive KPI measures, time-based analysis, and dynamic slicers for transport mode, warehouse location, region, and month-year to improve reporting efficiency and operational decision-making. 
+- 🌍 Developed an interactive **Power BI Supply Chain Dashboard** to monitor key operational KPIs, including On-Time In-Full (OTIF %), On-Time Delivery (OT %), and In-Full Delivery (IF %) performances.
+- 🔍 Built dynamic analytics to evaluate **regional delivery performance, monthly OTIF trends, warehouse-wise delays, transport mode efficiency, and ordered vs. delivered quantities**, identifying operational bottlenecks and fulfillment gaps.
+- 📈 Automated supply chain performance reporting using **Power BI, DAX, and Power Query**, developing interactive KPI measures, time-based analysis, and dynamic slicers for transport mode, warehouse location, region, and month-year to improve reporting efficiency and operational decision-making. 
 ![image](SC.png)
 [🔗 View Dashboard](https://drive.google.com/file/d/1McMV11erxwaZkfpOyEHSXmX3aEfmEW5t/view?usp=drive_link)
 
